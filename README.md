@@ -1,10 +1,8 @@
 # odin-recipes
 The Odin Project Foundations
-Learning:
+<h1>Learning:</h1>h1>
 <li>
-<ol>
-Git Basics
-VS Code Basics
-</ol>
+<ol>Git Basics</ol>
+<ol>VS Code</ol>
 </li>
 
