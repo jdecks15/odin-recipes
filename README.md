@@ -1,6 +1,6 @@
 # odin-recipes
-<h2>The Odin Project Foundations</h2>
-<h1>Learning:</h1>
+<h1>The Odin Project Foundations</h1>
+<h2>Learning:</h2>
 <li>
 <ol> Git Basics</ol>
 <ol> VS Code</ol>
